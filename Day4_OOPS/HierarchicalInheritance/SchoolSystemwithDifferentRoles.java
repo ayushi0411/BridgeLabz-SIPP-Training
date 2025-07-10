@@ -1,4 +1,4 @@
-package Day4_ProgrammingElements.HierarchicalInheritance;
+package Day4_OOPS.HierarchicalInheritance;
 
 class Person{
 	String name;
