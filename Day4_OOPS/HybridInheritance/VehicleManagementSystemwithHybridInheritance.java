@@ -1,4 +1,4 @@
-package Day4_ProgrammingElements.HybridInheritance;
+package Day4_OOPS.HybridInheritance;
 class Vehicle{
 	int maxSpeed;
 	String model;
