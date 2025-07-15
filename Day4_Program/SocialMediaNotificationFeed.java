@@ -1,4 +1,4 @@
-package Workshop;
+package Day4_Program;
 import java.util.LinkedList;
 abstract class Notification {
     String message;
